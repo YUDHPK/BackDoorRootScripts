@@ -15,8 +15,13 @@ Requirements:
 - adb
 
 To install magisk, clone this repository and run command `./install.sh` in the cloned repository folder
+(if by chance it gives permission denied error then use `chmod +x install.sh` )
 
-To reinitialize magisk, run the command <code>./root3t.sh`</code>
+To reinitialize magisk(after every reboot), run the command <code>./root3t.sh`</code>
+(if by chance it gives permission denied error then use `chmod +x root3t.sh`
+
+To uninstall magisk first reboot your device and only then run this script `./uninstall.sh`
+(if by chance it gives permission denied error then use `chmod +x uninstall.sh`)
 
 I haven't prepared busybox or magisk by myself they are the work of their own respective developers
 
