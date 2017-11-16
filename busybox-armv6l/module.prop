@@ -1,0 +1,7 @@
+id=busybox
+name=Busybox
+version=1.26.2-defconfig-armv6l
+versionCode=1
+author=haruue
+description=Busybox https://www.busybox.net, ported to Magisk by haruue
+template=4
