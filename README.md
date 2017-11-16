@@ -25,6 +25,7 @@ To reinitialize magisk(after every reboot), run the command `./root3t.sh` in the
 
 To uninstall magisk first reboot your device and only then run this script `./uninstall.sh` in the cloned repo folder<br/>
 (if by chance it gives permission denied error then use `chmod +x uninstall.sh`)
+after that uninstall magisk app manually
 
 I haven't prepared busybox or magisk they are the work of their own respective developers
 
