@@ -2,6 +2,9 @@
 Rooting Oneplus 3T (tested upto open beta 18)
 Scripts to root devices with the EngineeringMode exploit
 
+exploit was found by <a href="https://twitter.com/fs0c131y">Elliot Alderson</a>
+page where he discussed https://twitter.com/fs0c131y/status/930115188988182531
+xda news :https://www.xda-developers.com/oneplus-root-access-backdoor/
 
 Based on: https://gist.github.com/aldur/b785257ac26d23bce648cad3ce2f6dc8
 and https://github.com/martmists/BackdoorRootScripts
