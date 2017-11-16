@@ -17,13 +17,13 @@ Requirements:
 
 - adb
 
-To install magisk, clone this repository and run command `./install.sh` in the cloned repository folder
+To install magisk, clone this repository and run command `./install.sh` in the cloned repository folder<br/>
 (if by chance it gives permission denied error then use `chmod +x install.sh` )
 
-To reinitialize magisk(after every reboot), run the command `./root3t.sh`
+To reinitialize magisk(after every reboot), run the command `./root3t.sh` in the cloned repo folder<br/>
 (if by chance it gives permission denied error then use `chmod +x root3t.sh`
 
-To uninstall magisk first reboot your device and only then run this script `./uninstall.sh`
+To uninstall magisk first reboot your device and only then run this script `./uninstall.sh` in the cloned repo folder<br/>
 (if by chance it gives permission denied error then use `chmod +x uninstall.sh`)
 
 I haven't prepared busybox or magisk they are the work of their own respective developers
@@ -36,3 +36,12 @@ I do not take any responsibility of any damage caused to your devices or you
 Use at your own risk
 
 I didnt force you to do anything.
+
+Proof that it worked for me<br/>
+Installation<br/>
+<img src="https://user-images.githubusercontent.com/16633152/32905137-25c45c36-cb1f-11e7-9cd0-f43c70d7235e.png"/>
+<br/>
+<img src="https://user-images.githubusercontent.com/16633152/32905166-3458b7ce-cb1f-11e7-90e5-0c8fed8698e5.png"/>
+
+Uninstallation<br/>
+<img src="https://user-images.githubusercontent.com/16633152/32905383-c933e7d8-cb1f-11e7-8b89-9dd7360731a6.png"/>
